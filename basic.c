@@ -1,6 +1,5 @@
 #include<stdio.h>
 int main(){
-	printf("desposido~~~\n");
+	printf("hello\n");
 	return 0;
 }
-）
